@@ -1,0 +1,39 @@
+_repo: Harry-s-Ladder-to-Learning_24644
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_bookshelf:
+- Children's Picture Books
+- Children's Instructional Books
+gutenberg_issued: '2008-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children'
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Readers'
+tableOfContents: Part I. Harry's horn-book -- Part II. Harry's picture-book -- Part
+  III. Harry's nursery songs -- Part IV. Harry's nursery tales -- Part V. Harry's
+  simple stories -- Part VI. Harry's country walks.
+title: Harry's Ladder to Learning
+url: http://www.gutenberg.org/ebooks/24644
